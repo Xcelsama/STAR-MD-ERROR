@@ -137,10 +137,10 @@ cmd({
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
 *🍁 Repo:*https://github.com/Xcelsama/STAR-MD
-*Group:* https://chat.whatsapp.com/DLniUfYVWR50sbkZDR8tBI
-*public grp:* https://chat.whatsapp.com/HTTzf69NNqWEU2v2yc7r0E
-*scan Qr:* https://blade-md-qr.onrender.com/
-*youtube tt:* https://youtu.be/YLG9OYERa5I?si=1e5cbrtKVc8aL5BI
+*Group:* https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs
+*public grp:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
+*scan Qr:* 
+*Whatsapp channel:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
 *Deploy Your Own:*-
 https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD&template=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD`
         let buttonMessaged = {
