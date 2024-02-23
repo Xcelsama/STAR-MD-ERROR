@@ -139,10 +139,9 @@ cmd({
 *🍁 Repo:*https://github.com/Xcelsama/STAR-MD
 *Group:* https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs
 *public grp:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
-*scan Qr:* 
+*scan Qr:* https://star-md-qr-web-xcelsama-e29e85286f3a.herokuapp.com/
 *Whatsapp channel:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
-*Deploy Your Own:*-
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD&template=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD`
+*Deploy Your Own:*-https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
