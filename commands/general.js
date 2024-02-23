@@ -37,7 +37,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,blade>',
+    use: '<Hii,Star>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -136,7 +136,7 @@ cmd({
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* https://github.com/Bladeh4x/BLADE-MD
+*🍁 Repo:*https://github.com/Xcelsama/STAR-MD
 *Group:* https://chat.whatsapp.com/DLniUfYVWR50sbkZDR8tBI
 *public grp:* https://chat.whatsapp.com/HTTzf69NNqWEU2v2yc7r0E
 *scan Qr:* https://blade-md-qr.onrender.com/
