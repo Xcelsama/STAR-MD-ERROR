@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": ""
+     "value": "https://i.imgur.com/D0ZPh8f.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -52,7 +52,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -73,9 +73,9 @@
        "value": "2347045035241"
  },	  
    "SESSION_ID": {
-    "description": "DONT CUT STAR-MD;;; WORD PUT YOURE SESSION ID HERE.",
+    "description": " PUT YOURE SESSION ID HERE.",
     "required" :true,
-    "value": "STAR-MD;;;"
+    "value": ""
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
