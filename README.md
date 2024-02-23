@@ -42,7 +42,7 @@
 
 
  
-  [`ℹ️Contact Owber`](https://wa.me/+2347045035241)
+  [`ℹ️Contact Owner`](https://wa.me/+2347045035241)
 
 ## Deployment Methods
 **If You Don't Have Any MongoDB Url Then, Use This Public one.!**
