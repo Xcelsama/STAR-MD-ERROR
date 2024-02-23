@@ -17,7 +17,7 @@ cmd({
         desc: "adds bass in given sound",
         category: "audio",
         use: '<reply to any audio>',
-      //  react:"✅",
+      //  react:"🔊",
     },
     async(Void, citel) => {
         let mime = citel.quoted.mtype
@@ -52,7 +52,7 @@ cmd({
         desc: "adds blown in given audio",
         category: "audio",
         use: '<reply to any audio>',
-       // react:"✅",
+       // react:"🔊",
     },
     async(Void, citel) => {
         let mime = citel.quoted.mtype
@@ -87,7 +87,7 @@ cmd({
         desc: "adds deep effect in given audio",
         category: "audio",
         use: '<reply to any audio>',
-      //  react:"✅",
+      //  react:"🎙",
     },
     async(Void, citel) => {
         let mime = citel.quoted.mtype
@@ -122,7 +122,7 @@ cmd({
         desc: "Adds fast(equilizer) in quoted audio.",
         category: "audio",
         use: '<reply to any audio>',
-       // react:"✅",
+       // react:"📡",
     },
     async(Void, citel) => {
         let mime = citel.quoted.mtype
